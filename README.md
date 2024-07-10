@@ -1,4 +1,4 @@
-# Water_Rates
+# Water Rates Coefficients as a function of Rotational and Kinetic temperatures (Trot & Tkin)
 
 This program computes rate coefficients for transitions in H2O + H2O system.
 For more details and to cite this work, please refer to:
@@ -11,3 +11,4 @@ Also see:
 User should change the values of input variables Temp_rot and Temp_kin to the desired ones only in the file "Generate_Rates.f90".
 For example, the current values in the main driver file are set to 250 and 300 K, respectively.
 The unit of input temterature is K and the unit of output rate is cm^3/s.
+
