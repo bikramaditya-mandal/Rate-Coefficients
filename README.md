@@ -18,7 +18,7 @@ This code is written in Fortran language. The only requirement to compile and us
     FC=gfortran
 ```
 
-and  replace *gfortran* with your own choice of compiler.
+and  replace **gfortran** with your own choice of compiler.
 
 3. Then you clean the directory to remove old and unnecessary module and object files using 
 
@@ -30,6 +30,10 @@ and  replace *gfortran* with your own choice of compiler.
 ```sh
     make
 ```
+
+## Modify temperatures:
+There is only one file which needs to be modified to get rate coefficients for the desired Temperatures (both T<sub>rot</sub> & T<sub>kin</sub>). The file name is [**Generate_Rates.f90**](Generate_Rates.f90)
+
 
 ## Citing this work:
 For more details and to cite this work, please refer to:
