@@ -114,7 +114,7 @@ For more details and to cite this work, please refer to:
 2. Bikramaditya Mandal and Dmitri Babikov, 2023, Astronomy & Astrophysics, 671, A51.
 3. Bikramaditya Mandal and Dmitri Babikov, 2023, Astronomy & Astrophysics, 678, A51.
 
-**Note:** This code works for **Rotational Temperature** in the range **5&le;T<sub>rot</sub>&le;1000 k**, and the **Kinetic Temperature** in the same range of **5&le;*T*<sub>kin</sub>&le;1000 k**. 
+**Note:** This code works for **Rotational Temperature** in the range **5&le;*T*<sub>rot</sub>&le;1000 *k***, and the **Kinetic Temperature** in the same range of **5&le;*T*<sub>kin</sub>&le;1000 *k***. 
 
 
 
