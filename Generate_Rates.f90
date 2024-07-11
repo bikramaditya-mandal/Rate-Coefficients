@@ -1,10 +1,9 @@
 !--------------------------------------------------------------------
 ! This program computes rate coefficients for transitions in H2O + H2O system.
 ! For more details and to cite this work, please refer to:
-! - Bikramaditya Mandal et al, 2024, to be published.
-! Also see:
-! - Bikramaditya Mandal and Dmitri Babikov, 2023, Astron Astrophys 671, A51.
-! - Bikramaditya Mandal and Dmitri Babikov, 2023, Astron Astrophys 678, A51.
+! - Bikramaditya Mandal et al, Rotational state-to-state transition rate coefficients for H$_{2}$O + H$_{2}$O collisions at nonequilibrium conditions, Astronomy & Astrophysics, 2024.
+! - Bikramaditya Mandal and Dmitri Babikov, 2023, Astronomy & Astrophysics, 671, A51.
+! - Bikramaditya Mandal and Dmitri Babikov, 2023, Astronomy & Astrophysics, 678, A51.
 !--------------------------------------------------------------------
 
 !--------------------------------------------------------------------
