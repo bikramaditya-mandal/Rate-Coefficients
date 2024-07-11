@@ -1,4 +1,4 @@
-# H<sub>2</sub>O + H<sub>2</sub>O Collisional Rates Coefficients
+<h1 align="center">H<sub>2</sub>O + H<sub>2</sub>O Collisional Rates Coefficients</h1>
 
 ## Objective:
 This program computes rate coefficients for state-to-state rotational transitions in H2O + H2O system as a function of Rotational and Kinetic temperatures (T<sub>rot</sub> & T<sub>kin</sub>).
