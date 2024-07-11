@@ -11,6 +11,7 @@ This code is written in Fortran language. The only requirement to compile and us
    git clone https://github.com/bikramaditya-mandal/Water_Rate_Coefficients.git
    cd Water_Rate_Coefficients```
 
+
 2. Then, you edit the first line of the Makefile to incorporate the appropriate installed compiler by modifying "FC=gfortran". You need to replace "gfortran" with your own choice of compiler.
 3. Then you clean the directory to remove old and unnecessary module and object files using "make clean"
 4. Finally, you use "make" to compile and create the executable.
