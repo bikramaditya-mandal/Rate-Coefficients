@@ -10,4 +10,3 @@ clean:
 	rm -f *.out
 	rm -f MQCT_TACS.dat
 
-
