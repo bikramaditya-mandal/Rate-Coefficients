@@ -19,8 +19,17 @@ This code is written in Fortran language. The only requirement to compile and us
 ```
 
 and  replace *gfortran* with your own choice of compiler.
-3. Then you clean the directory to remove old and unnecessary module and object files using "make clean"
+
+3. Then you clean the directory to remove old and unnecessary module and object files using 
+
+```sh
+    make clean
+```
+
 4. Finally, you use "make" to compile and create the executable.
+```sh
+    make
+```
 
 ## Citing this work:
 For more details and to cite this work, please refer to:
