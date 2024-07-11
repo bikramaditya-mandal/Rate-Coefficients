@@ -45,7 +45,7 @@ program Generate_Rates
 ! 'a' for average (recomended)
   input_data_type = 'a' 
  
-! Generate termally averaged cross sections:
+! Generate thermally averaged cross sections:
   Temp_rot = 250.d0
   call generate_TACS(Temp_rot, ortho_to_para_ratio)
 
