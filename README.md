@@ -1,4 +1,4 @@
-# Water Rates Coefficients as a function of Rotational and Kinetic temperatures (Trot & Tkin)
+# H<sub>2</sub>O + H<sub>2</sub>O Rates Coefficients as a function of Rotational and Kinetic temperatures (T<sub>rot</sub> & T<sub>kin</sub>)
 
 This program computes rate coefficients for transitions in H2O + H2O system.
 For more details and to cite this work, please refer to:
