@@ -9,7 +9,8 @@ This code is written in Fortran language. The only requirement to compile and us
 
 ```sh
    git clone https://github.com/bikramaditya-mandal/Water_Rate_Coefficients.git
-   cd Water_Rate_Coefficients```
+   cd Water_Rate_Coefficients
+```
 
 
 2. Then, you edit the first line of the Makefile to incorporate the appropriate installed compiler by modifying "FC=gfortran". You need to replace "gfortran" with your own choice of compiler.
