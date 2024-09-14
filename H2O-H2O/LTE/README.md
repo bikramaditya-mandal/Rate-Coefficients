@@ -2,17 +2,17 @@
 
 ## Objective:
 
-This program computes rate coefficients for state-to-state rotational transitions in H<sub>2</sub>O + H<sub>2</sub>O system for a Local Thermodynamic Equilibrium (LTE) scenario where Rotational and Kinetic temperature (T<sub>rot</sub> & T<sub>kin</sub>) is equal to each other (i.e., T<sub>rot</sub> = T<sub>kin</sub>). The code is primarily developed to be used for astronomical modeling in atmospheres of comets, and other astrophysical environments where H<sub>2</sub>O is discovered. Only one **temperature (representing both T<sub>rot</sub> & T<sub>kin</sub>)** are used as input in the unit of **kelvin** and the rotational state-to-state transitions **rate coefficients (*k*)** is computed as ***cm<sup>3</sup>s<sup>-1</sup>***.
+This program computes rate coefficients for state-to-state rotational transitions in H<sub>2</sub>O + H<sub>2</sub>O system for a Local Thermodynamic Equilibrium (LTE) scenario where Rotational and Kinetic temperature (T<sub>rot</sub> & T<sub>kin</sub>) is equal to each other (i.e., T<sub>rot</sub> = T<sub>kin</sub>). The code is primarily developed to be used for astronomical modeling in atmospheres of comets, and other astrophysical environments where H<sub>2</sub>O is discovered. Only one **temperature (representing both T<sub>rot</sub> & T<sub>kin</sub>)** is used as input in the unit of **kelvin** and the rotational state-to-state transitions **rate coefficients (*k*)** is computed as ***cm<sup>3</sup>s<sup>-1</sup>***.
 
 ## Installation:
 
 This code is written in Fortran language. The only requirement to compile and use this code is to install a Fortran compiler, such as gfortran or ifort. Here are the steps to compile this code and use for the astronomical modeling.
 
-1. First, one needs to download this project by from the [GitHub website](https://github.com/bikramaditya-mandal/Rate-Coefficients.git). Alternatively, one can clone this project using CLI and the following commands.
+1. First, one needs to download this project from the [GitHub website](https://github.com/bikramaditya-mandal/Rate-Coefficients.git). Alternatively, one can clone this project using CLI and the following commands.
 
 ```sh
    git clone https://github.com/bikramaditya-mandal/Rate-Coefficients.git
-   cd cd Rate-Coefficients/H2O-H2O/LTE/
+   cd Rate-Coefficients/H2O-H2O/LTE/
 ```
 
 2. Then, one needs to edit the first line of the Makefile to incorporate the appropriate installed compiler by modifying 
